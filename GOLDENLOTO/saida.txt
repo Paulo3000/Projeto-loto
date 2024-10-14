@@ -1,0 +1,5 @@
+
+
+Apostador: João da Silva concurso 241112
+Endereço: Rua Manuel Ribas 381
+Aposta: [22, 23, 18, 14, 19, 20, 15, 4, 8, 7, 12, 17, 24, 25, 10]
