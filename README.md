@@ -1,2 +1,2 @@
 # Projeto-loto
-Projeteto de loteria
+Projeteto de loteria// using git 
